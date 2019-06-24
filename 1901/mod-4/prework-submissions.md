@@ -28,9 +28,9 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 
 ## Brennan Duffey
 
-* [Node Server Tutorial]()
-* [Annotated Express server file]()
-* [Promise Practice Exercises]()
+* [Node Server Tutorial](https://github.com/BrennanDuffey/mod-four-prework-messages)
+* [Annotated Express server file](https://github.com/BrennanDuffey/trapper-keeper-api/tree/annotated-be)
+* [Promise Practice Exercises](https://repl.it/@BrennanDuffey/SpanishViolentCommercialsoftware-1)
 
 ## Duy Thanh Vu
 
